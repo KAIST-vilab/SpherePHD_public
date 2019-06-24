@@ -5,4 +5,7 @@ Train(6k)/test(1k), 10% of all dataset, can be found in [here](https://drive.goo
 
 For testing on larger dataset, the codes for dataset making and visualization are provided in [here](https://drive.google.com/open?id=1ZVx8E33d8z1_feBkMQ-UB_I2ogWO6jc3)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9YkOOTf8LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+__Click the image below to see our result video__
+
+[![](https://img.youtube.com/vi/y9YkOOTf8LQ/0.jpg)](https://www.youtube.com/watch?v=y9YkOOTf8LQ)
