@@ -1,0 +1,1 @@
+The DatasetMaker_MNIST code takes in MNIST images as input. To correctly use the DatasetMaker_MNIST code, the original MNIST binary files need to be converted to image format. We placed a sample image in the mnist folder as an example of how the image should be.
